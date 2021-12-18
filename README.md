@@ -53,7 +53,7 @@ We suggest that you begin by typing:
 
 ==> pip install Django 
 
-==> django-admin startproject cnctr
+==> django-admin startproject cnctr .
 
 
 ==> heroku config:set DISABLE_COLLECTSTATIC=1
