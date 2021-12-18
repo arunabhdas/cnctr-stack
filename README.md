@@ -25,7 +25,7 @@ Successfully installed pip-21.3.1
 ==> git push heroku main
 
 ## Bootstrap
-==> django-admin startproject shastapro
+==> django-admin startproject cnctr
 
 
 ==> heroku config:set DISABLE_COLLECTSTATIC=1
@@ -35,7 +35,7 @@ Successfully installed pip-21.3.1
 
 ==> pip freeze > requirements.txt
 
-==> cd shastapro && python manage.py startapp portal
+==> cd cnctr && python manage.py startapp portal
 
 ==> python manage.py migrate
 
