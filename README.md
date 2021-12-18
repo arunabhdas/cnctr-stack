@@ -1,6 +1,13 @@
 # Cnctr Stack
 
 
+## Architecture
+
+### Entity Relationship Diagram
+
+![ERD](https://raw.githubusercontent.com/arunabhdas/cnctr-stack/main/screenshots/screenshot_1.png)
+
+
 ## Steps
 
 ## Branches
