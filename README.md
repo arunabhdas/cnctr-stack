@@ -13,6 +13,7 @@ Python 3.8.5
 
 # M1 python troubleshooting
 ==> which -a python3
+
 /usr/bin/python3
 ==> python3 -V
 Python 3.8.9
