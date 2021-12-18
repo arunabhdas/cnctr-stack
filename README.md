@@ -55,6 +55,7 @@ We suggest that you begin by typing:
 
 ==> django-admin startproject core .
 
+==> python manage.py startapp portal
 
 ==> heroku config:set DISABLE_COLLECTSTATIC=1
 
