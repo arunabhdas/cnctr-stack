@@ -25,6 +25,9 @@ Successfully installed pip-21.3.1
 ==> git push heroku main
 
 ## Bootstrap
+
+==> pip install Django 
+
 ==> django-admin startproject cnctr
 
 
